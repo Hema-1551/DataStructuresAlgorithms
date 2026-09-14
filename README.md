@@ -1,2 +1,2 @@
 # DataStructuresAlgorithms
-DSA Practice
+DSA Practice for Teju
